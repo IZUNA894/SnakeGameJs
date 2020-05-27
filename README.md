@@ -16,6 +16,7 @@ Classic Snake Game in Js only
 just clone the this repo into your local machine,have node installed,run '''npm install''' and then open 'localhost:3000' in your browser.
 
 ### For sample 
+best,click the preview link or 
 see the 2 images included in files.
 
 
