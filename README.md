@@ -5,8 +5,11 @@ Classic Snake Game in Js only
 
 ## Technology Used
 1: Boostrap 4 :- Front end css frame work for styling(although use in this project is very less,but more use will be in upcoming future version.)
+
 2:Phasor :- A web base js library use for developing games.
+
 3:node.js :- A js backend framework ,for serving files.
+
 
 ### How to run
 
