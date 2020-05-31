@@ -19,6 +19,9 @@ just clone the this repo into your local machine,have node installed,run '''npm 
 best,click the preview link or 
 see the 2 images included in files.
 
+### screenshots
+![Screenshot](pic1.png)
+![Screenshot](pic2.png)
 
 feel free to contribute.
 
